@@ -1,0 +1,17 @@
+# Sensitive configuration files
+*.key
+*.pem
+*.p12
+.env
+.env.local
+.env.production
+
+# Organization-specific knowledge vault (NEVER commit)
+.amrit/org-vault/
+~/.amrit/org-vault/
+
+# Temporary and log files
+*.tmp
+*.log
+.DS_Store
+node_modules/
