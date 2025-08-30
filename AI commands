@@ -1,0 +1,133 @@
+ jumping too quickly into fixes without thorough analysis. Let's take a more methodical approach to validate issues from multiple angles. 
+
+
+do not jumping too quickly into fixes without thorough analysis. Let's take a more methodical approach to validate issues from multiple angles.
+
+Follow Industry standard way to handle similar situations. Never compromise with quality. Never compromise with security. must comply with OWASP Top 10.
+
+not jumping too quickly into fixes without thorough analysis. Let's take a more methodical approach to validate issues from multiple angles. 
+
+Create a common debugging run book Prompt for AI tool
+
+
+sure. do it. let me know you need any kind of resource or my input. Complete it and share executive summy of progress.
+
+----------------------
+
+prepare a detailed documeatation for this project biz-dir directory under folder wiki . I want a role base access of information  of this folder. This should all information for developers, QA, Operation Team ,  Projet managers, Product owners , and Top Level C class Management . That should be comprehesive. Make sperate database for Wiki project. User could able to edit document from browser and access just like conflunce. Also Desigb in in such a way that it get updated automatically as per project chnages. also it should have a executve dashboard to monior for Execuves like CEO/CTO. Notifi me me when done. do ot silentlly.
+
+
+Can you write a comprehesive test suit for reression testing and do regression testing.
+
+
+------
+
+continue with regression testing .  always follow these guard rails.  dont repeat your self . not jumping too quickly into fixes without thorough analysis. Let's take a more methodical approach to validate issues from multiple angles.
+
+Follow Industry standard way to handle similar situations. Never compromise with quality. Never compromise with security. must comply with OWASP Top 10.
+
+
+------
+
+ok do regression now using framework
+
+------
+
+
+learn with you mistakes. Dont reapeat your mistakes Create a knowlege tracker of trouble shooting you made and succeded . and keep it updated with whatever you learn so far.  dont repeat your mistakes . whever you face aproblem you this knowledge tracker as reference to trouble shoot. Optimised it for AI Tools like github Copilot.
+
+
+----
+
+give a executuve summary after deep analysis if every thing is ready for end to end user acceptace testing ?
+
+
+-------------
+
+use knowledge & trobubleshooting tracker you made for AI tools.
+
+
+
+-------------
+
+update .gitignore file appropriatlly. Knwoeldge Tracker should not ignored. AI Knowledge Tracker and all related AI documentation files are properly included
+
+
+------
+
+Security Check before commit and push in Git hub 
+
+
+-----
+
+Remember We Should have a Document of important  configuration and Credetials Detail Out of project . and also put a document to explain that document usage. Make  even if We want to setup this project in new machine we have all needed information and application must not broken due to some missing depedency or configuration. Also keep updating knowledge tracker and AI troubleshooting tracker  periodically.
+
+
+-------
+
+
+tests result files folder must be out side biz-directory. It should not be part of source. what should correct approch.
+------
+
+Vadidate Project if every thing is working and no new bug introduced.
+
+------
+
+Can you create a docker compose file to run this whole application in Prodcution quality setup with in a container ?
+
+-------------
+
+Demo User Successfully Created!
+User Credentials:
+Username: demouser
+Password: demouser@123456:)
+Email: iet.gupta@gmail.com (existing)
+Role: administrator
+Access Information:
+Login URL: http://localhost:8888/wp-admin/
+Frontend: http://localhost:8888
+User ID: 1 (primary admin user)
+
+
+-----------------
+
+Please create a new prompt file in the prompts folder with a suitable and descriptive filename. The structure and detail should follow the format of existing prompts, including:
+
+Title
+
+Objective
+
+Instructions
+
+Validation & Acceptance Criteria
+
+Any other relevant metadata or formatting used previously.
+
+Going forward, when I say "create prompt", you will:
+
+Start capturing everything I type.
+
+Refine the input.
+
+Convert it into a well-structured, AI-compatible prompt format.
+
+Does this workflow make sense to you?
+
+--------------------------------------------
+
+
+
+Can we move wiki is its own seperate repostory with name biz-dir-wiki safatly with breaking any thing . just do deep analysis and submit report. Also yes possible then create a phased plan . for this create a new git repostory name biz-dir-wiki  as save it as `/home/ankur/workspace/biz-dir-wiki`  . create a modul Claude Orchestration File . This file will  have all High Level Proeplt detail of requirement in phased manner. For each phase it will have 1 or many prompt file name which are stored inside prompt directory in this repostory. Each proprt file have AI friendly ammner clrea instructions about tasks, for each task we should have clear  accepatace critria and validation critrias . Details in prompts should have  comprehesive and complete in itself so that any prompt could be developed by Individual AI tools sessions without depend on other propmts developments. There must a A Localised and shared AI optimised  Knowlege Tracker for AI Tools them them where AI tools will keep tracking their learning during development and if the y fixed any issue they will akso update this tracker . This tracker will be saviour for AI tools when Then need to ustilised their previous knoeledge of simiiler issue they faced. Their should be a guard rail file in the Root. Which have Guard Rail Prompt When ever AI tools are stucj in loop and not able to complete tasks or debug a issue or fix for a issue . They will chekc this guard rail file for guidance and Also consult with Their localised knowlege tracker and If still not fixxed then check for shared knowlege tracker all these trackers Guirad rails ectc are optmimised for AI tools to work in autonolus setup with Minimal Human Input . For Gurad rail Use these prompts ``` `1) do not jumping too quickly into fixes without thorough analysis. Let's take a more methodical approach to validate issues from multiple angles. 2)  Follow Industry standard way to handle similar situations. 3) Never compromise with quality 4) Never compromise with security 5) Never forget whatever we are making should make human life easy 6) must comply with OWASP Top 10. 7) learn with you mistakes.  Document that Learning  in Tracker for your self in AI optimised format 8) Dont reapeat your mistakes , also documents you mistakes in Trackers in AI optimised format  9) Security Check before commit and push in Git hub   10) Remember We Should have a Document of important  configuration and Credetials Detail Out of project . and also put a document to explain that document usage. Make  even if We want to setup this project in new machine we have all needed information and application must not broken due to some missing depedency or configuration. Also keep updating knowledge tracker and AI troubleshooting tracker  periodically. 11)  tests result files folder must be out side repository OR git ignored It should not be part of version control ``
+
+
+--------------
+
+
+Want to Update some addtional Instrctions. We will use some good robust technology stack which must be efficient, HIgh Peformance, easy to maintain by AI tools and human both, Low Cost and give User a premiuim experince . For development use TDD (Test driven Development Aprocoh) , We will Highly relly on automation Testing and quick delivery. Intead of Large feature delivery on one go we will prefer to rollout small quick features. Ther msut ve well oraganised documation and tracker updates . Develop this wikki project in manner it should be easly configured to be work with any new project or system or team . My final objective is develop a Or Framework or methodlogy to efficientlly develop any kind of projects absed on any kinf of Business requirement. using AI tools . This framework should able to replecate similler quality of roubust results each time used by some one. This frane work will of inetreleaved prompts . and stored in a seperate folder /home/ankur/workspace/amrit . remeber this frame work must not be dependt on any speccific project reqiorement but have have a continousllu updated collections or prompts based on expecied from mutiple project development experience by AI tools.
+
+
+
+
+
+
+
